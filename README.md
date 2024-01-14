@@ -7,7 +7,7 @@
 # How to get the BOT_TOKEN
   Write on tellegram to @BotFather and follow the instructions.
 
-
+# Add sessions folder, inside it add session_master file
 
 ![Screenshot 2024-01-14 212457](https://github.com/vermatic2010/MedicoBot/assets/127281006/bf91116f-800d-4891-b2b1-b92e8dc078c1)
 
