@@ -5,7 +5,7 @@
 
   
 # How to get the BOT_TOKEN
-  Write on tellegram to @BotFather and follow the instruction
+  Write on tellegram to @BotFather and follow the instructions.
 
 
 
