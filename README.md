@@ -1,4 +1,5 @@
 # MedicoBot
+A medical bot hosted on Telegram that can check any city's weather and air quality, provide nutritional information on food items, calculate Body Mass Index (BMI), and suggest various exercises of different types and levels.
 
 # How to get API_ID and API_HASH for TELETHON
   Follow the instruction at https://my.telegram.org/auth
